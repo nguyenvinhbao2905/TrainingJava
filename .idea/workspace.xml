@@ -5,63 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90ac6bf8-f9ae-4772-8b0f-5d6cff5e5fbd" name="Changes" comment="new update">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/order/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/order/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/order/OrderManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/order/Review.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/order/ReviewManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/payment/CreditCardPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/payment/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/payment/PaypalPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/product/CategoryManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/product/InventoryManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/product/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/product/ProductManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/search/SearchHistoryManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/test/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/test/NewTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/user/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/user/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/user/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/collection/user/UserRegistry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/datatypes/caculatorinterest/BankInterestCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/datatypes/caculatorinterest/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/datatypes/convertdatatypes/DataCaculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/datatypes/convertdatatypes/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/datatypes/studentmanager/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/datatypes/studentmanager/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/featurejava/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/featurejava/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/order/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/order/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/order/Review.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/payment/CreditCardPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/payment/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/payment/PaypalPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/product/Clothing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/product/Discount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/product/Electronics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/product/Inventory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/product/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/product/ProductManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/test/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/test/NewTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/user/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/user/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/oop/user/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/com/bu3_project_training/Bu3ProjectTrainingApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/result/result1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/result/result_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/github/com/bu3_project_training/Bu3ProjectTrainingApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +242,7 @@
       <workItem from="1741163369910" duration="72000" />
       <workItem from="1741163662013" duration="16000" />
       <workItem from="1741163704558" duration="13000" />
-      <workItem from="1741163777638" duration="814000" />
+      <workItem from="1741163777638" duration="1697000" />
     </task>
     <task id="LOCAL-00001" summary="New project">
       <option name="closed" value="true" />
