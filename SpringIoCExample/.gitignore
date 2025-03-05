@@ -1,11 +1,26 @@
-# Ignore build files
-/build/
-/.gradle/
-/.idea/
-/.vscode/
-/target/
-/out/
+# Ignore Gradle and build files
+.gradle/
+build/
+gradlew
+gradlew.bat
+
+# Ignore IDE config files
+.idea/
+.vscode/
 
 # Ignore system files
 *.log
-*.iml
+*.tmp
+*.bak
+*.swp
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore project-specific files
+HELP.md
+settings.gradle
+build.gradle
