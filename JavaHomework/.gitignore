@@ -3,10 +3,12 @@
 build/
 gradlew
 gradlew.bat
+ls
 
 # Ignore IDE config files
 .idea/
 .vscode/
+.gitattributes
 
 # Ignore system files
 *.log
